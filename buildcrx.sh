@@ -4,7 +4,7 @@
 # 
 # Version: 0.0.1
 # Author: kodango <dangoakachan@foxmail.com>
-# Homepage: http://kodango.com
+# Homepage: http://kodango.com/buildcrx
 #
 
 function usage()
